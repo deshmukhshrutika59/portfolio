@@ -387,16 +387,6 @@ span{
    html{
       font-size: 55%;
    }
-   .home .profession-container{
-      height: 85.8rem;
-   }
-   .home .profession-container .profession-box{
-      right: -12rem;
-      height: 85.8rem;
-   }
-   .home .profession-container .overlay{
-      right: -9rem;
-   }
 }
 
 @media (max-width:1024px){
@@ -405,13 +395,6 @@ span{
    }
    section{
       padding: 10rem 3% 2rem;
-   }
-   .home .profession-container .profession-box{
-      right: -22rem;
-   }
-   .home .profession-container .overlay{
-      right: -15rem;
-
    }
 }
 @media(max-width:991px){
@@ -425,15 +408,6 @@ span{
    }
    .home .home-content{
       max-width: 50rem;
-   }
-   .home .profession-container .profession-box{
-      right: -45rem;
-   }
-   .home .profession-container .overlay{
-      right: -39.5rem;
-   }
-   .home-img img{
-      display: none;
    }
 
    .services,
@@ -499,9 +473,6 @@ span{
    }
    .home-content .social-media a{
       margin: 2.5rem .75rem 3rem;
-   }
-   .home .profession-container{
-      display: none;
    }
 
    .about{
